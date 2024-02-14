@@ -7,4 +7,5 @@
 * [2.파이썬 처음 따라하기](2.python\_step\_by\_step/README.md)
   * [2.1.파이썬 개발환경 구축](2.python\_step\_by\_step/2.1.python\_environ.md)
   * [2.2.첫 번째 프로그램 실행](2.python\_step\_by\_step/2.2.first\_python\_program.md)
-* [3.파이썬 기본문법](3.python\_basic\_syntax.md)
+* [3.파이썬 기본문법](3.python\_basic\_syntax/README.md)
+  * [3.1. 변수와 데이터 타입](3.python\_basic\_syntax/3.1.variable\_and\_datatype.md)
